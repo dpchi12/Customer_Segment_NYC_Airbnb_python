@@ -21,3 +21,16 @@ This dataset contains 48,895 rows and 16 columns.
 13. Number_of_reviews: Total number of reviews received by the listing.
 14. Last_review: The date of the most recent review for the property.
 15. Reviews_per_month: The average number of reviews the property receives per month.
+
+## Requỉre libraries for our project
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+mapclassify
+wordcloud
+pillow
+sqlite3
+scikit-learn
+
