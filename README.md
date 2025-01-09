@@ -24,13 +24,23 @@ This dataset contains 48,895 rows and 16 columns.
 
 ## Requỉre libraries for our project
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 geopandas
+
 mapclassify
+
 wordcloud
+
 pillow
+
 sqlite3
+
 scikit-learn
+
 
