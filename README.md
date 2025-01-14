@@ -1,4 +1,14 @@
-# New York City AirBnB Data
+# Customer Segmentation on New York City AirBnB Data
+## Business Problem**
+With hundreds of thousands of listings available on the Airbnb platform across various locations, it is essential to understand customer preferences and segment them effectively. This is crucial for both hosts and Airbnb to maximize occupancy rates, set optimal pricing, and offer personalized experiences.
+
+In this project, our team will analyze Airbnb listings in New York City to optimize Airbnb's offerings and pricing strategies. By categorizing the listings based on price and room type, Airbnb can enhance its recommendation algorithms to better align with customer preferences.
+
+
+Later on, classification algorithms will be applied based on these variables:
+
+**Target Variable: price per room type <br>
+Feature Variable: minimum nights, neighborhood group, hosts' listings count, number of reviews and the availability of the listing**
 ## Attribute Information:
 
 This dataset contains 48,895 rows and 16 columns.
