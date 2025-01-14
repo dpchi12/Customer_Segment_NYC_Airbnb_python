@@ -1,5 +1,5 @@
 # Customer Segmentation on New York City AirBnB Data
-## Business Problem**
+## Business Problem
 With hundreds of thousands of listings available on the Airbnb platform across various locations, it is essential to understand customer preferences and segment them effectively. This is crucial for both hosts and Airbnb to maximize occupancy rates, set optimal pricing, and offer personalized experiences.
 
 In this project, our team will analyze Airbnb listings in New York City to optimize Airbnb's offerings and pricing strategies. By categorizing the listings based on price and room type, Airbnb can enhance its recommendation algorithms to better align with customer preferences.
