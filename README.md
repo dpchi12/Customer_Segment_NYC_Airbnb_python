@@ -55,5 +55,5 @@ scikit-learn
 
 
 The data set can be found in the [Data](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Notebooks). 
-Besides, during the Explordinarory Data Analysis, we created an interactive map of Airbnb in New York City which can be found [here](airbnb_nyc_interactive_map.html)
+Besides, during the Explordinarory Data Analysis, we created an interactive map of Airbnb in New York City which can be found [here](https://dpchi12.github.io/Customer_Segment_NYC_Airbnb_python/airbnb_nyc_interactive_map.html) 
 
