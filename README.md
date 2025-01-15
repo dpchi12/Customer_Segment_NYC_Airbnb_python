@@ -7,7 +7,7 @@ In this project, our team will analyze Airbnb listings in New York City to optim
 
 Later on, classification algorithms will be applied based on these variables:
 
-**Target Variable: Customer segment ( by price per room type) <br>
+**Target Variable: Customers segment ( by price per room type) <br>
 Feature Variable: minimum nights, neighborhood group, hosts' listings count, number of reviews and the availability of the listing**
 ## Attribute Information:
 
@@ -54,5 +54,5 @@ sqlite3
 scikit-learn
 
 
-The data set can be found in the [Data](https://github.com/dpchi12/NYC_Airbnb_Python_project/tree/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/NYC_Airbnb_Python_project/tree/Notebooks). 
+The data set can be found in the [Data](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Notebooks). 
 
