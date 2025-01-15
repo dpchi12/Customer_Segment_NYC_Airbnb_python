@@ -7,7 +7,7 @@ In this project, our team will analyze Airbnb listings in New York City to optim
 
 Later on, classification algorithms will be applied based on these variables:
 
-**Target Variable: price per room type <br>
+**Target Variable: Customer segment ( by price per room type) <br>
 Feature Variable: minimum nights, neighborhood group, hosts' listings count, number of reviews and the availability of the listing**
 ## Attribute Information:
 
