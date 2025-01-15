@@ -54,3 +54,5 @@ sqlite3
 scikit-learn
 
 
+The data set can be found in the [Data](https://github.com/dpchi12/NYC_Airbnb_Python_project/tree/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/NYC_Airbnb_Python_project/tree/Notebooks). 
+
