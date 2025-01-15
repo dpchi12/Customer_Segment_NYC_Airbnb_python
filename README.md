@@ -7,7 +7,7 @@ In this project, our team will analyze Airbnb listings in New York City to optim
 
 Later on, classification algorithms will be applied based on these variables:
 
-**Target Variable: Customers segment ( by price per room type) <br>
+**Target Variable: Customers segment (by price per room type) <br>
 Feature Variable: minimum nights, neighborhood group, hosts' listings count, number of reviews and the availability of the listing**
 ## Attribute Information:
 
@@ -19,7 +19,7 @@ This dataset contains 48,895 rows and 16 columns.
 4. Host_name: The name of the host.
 5. Neighbourhood_group: The larger area or borough where the property is located (e.g., Manhattan, Brooklyn).
 6. Latitude: The latitude coordinate of the property’s location.
-7. Longitude: The longtitude coordinate of the property’s location.
+7. Longitude: The longitude coordinate of the property’s location.
 8. Room_type: The type of room offered, e.g., Entire home/apt, Private room, Shared room. <br>
   *   Entire apartment - Studio apartment; a single apartment unit for yourself.
   *   Private room - Shared room in an apartment.
@@ -55,5 +55,5 @@ scikit-learn
 
 
 The data set can be found in the [Data](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Notebooks). 
-Besides, during the Explordinarory Data Analysis, we created an [interactive map of Airbnb in New York City](https://dpchi12.github.io/Customer_Segment_NYC_Airbnb_python/airbnb_nyc_interactive_map.html) that displays all the listings with prices above 2000. By looking at the map we can further support our hypothesis that the majority of the most expensive listings are in Manhattan. There are also quite a few of those in Brooklyn but nevertheless, it is obvious which area has the most prestigious apartments. 
+Besides, during the Explordinarory Data Analysis, we created an [interactive map of Airbnb in New York City](https://dpchi12.github.io/Customer_Segment_NYC_Airbnb_python/airbnb_nyc_interactive_map.html) that displays all the listings with prices above 2000. By looking at the map, we can further support our hypothesis that the majority of the most expensive listings are in Manhattan. There are also quite a few of those in Brooklyn but nevertheless, it is obvious which area has the most prestigious apartments. 
 
